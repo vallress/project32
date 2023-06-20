@@ -1,0 +1,13 @@
+h1{
+    color: red;
+
+}
+
+.item_price{
+    background-color: grey;
+    color: paleturquoise;
+    margin-top: 100px;
+}
+.description{
+    font-size: 50px;
+}
