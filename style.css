@@ -11,3 +11,10 @@ h1{
 .description{
     font-size: 50px;
 }
+
+.n1{
+    font-size: 24px;
+    text-shadow: green 2px 5px;
+
+
+}
